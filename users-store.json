@@ -1,0 +1,50 @@
+{
+  "dev-campuscare-001": {
+    "uid": "dev-campuscare-001",
+    "email": "developer@campuscare.edu",
+    "role": "developer",
+    "displayName": "CampusCare Lead Developer",
+    "rollNo": null,
+    "staffId": null,
+    "passwordHash": "be1e46c0b0c7c13ac34b8c020e54529d628c120cac6faab9f1dd4762f30b16d5e2bb2ed9e16bd0314f3a6831c86ef661f55927b2fc5bfb2d4e440a64437101a9",
+    "salt": "77227b30f3cadc738314f79bc15948cf",
+    "createdAt": "2026-09-28T07:14:48.199Z",
+    "updatedAt": "2026-09-28T07:14:48.199Z"
+  },
+  "admin-campuscare-001": {
+    "uid": "admin-campuscare-001",
+    "email": "admin@campuscare.edu",
+    "role": "admin",
+    "displayName": "Campus Administrator",
+    "rollNo": null,
+    "staffId": null,
+    "passwordHash": "4246c21d731c73a4cea9907556efdcbc076a0a3b939e6317a77b2c121ed061f603b1f6fe438750dab476a01f4d5a1e9b5f829989b01054496a20e3a7dba490e6",
+    "salt": "d20b311c4f57b3c4af32a7c738fb6dc3",
+    "createdAt": "2026-09-28T07:14:48.199Z",
+    "updatedAt": "2026-09-28T07:14:48.199Z"
+  },
+  "student-22bcse042": {
+    "uid": "student-22bcse042",
+    "email": "student@campuscare.edu",
+    "role": "student",
+    "displayName": "Aarav Sharma",
+    "rollNo": "22BCSE042",
+    "staffId": null,
+    "passwordHash": "526de22a8bf6ada6779636835356dca7f7069c7f20bebdc3f1b5d725812c30f967405064defc0f617893e47a7b47551f81e32c31b7a0c6a7782aac54e5c018fd",
+    "salt": "a969015b3aa4320f6e4d3e4a6c72b1ba",
+    "createdAt": "2026-09-28T07:14:48.200Z",
+    "updatedAt": "2026-09-28T12:58:58.572Z"
+  },
+  "staff-tech-001": {
+    "uid": "staff-tech-001",
+    "email": "staff@campuscare.edu",
+    "role": "staff",
+    "displayName": "Rajesh Kumar",
+    "rollNo": null,
+    "staffId": "staff-1",
+    "passwordHash": "57555b7ff7fb46173604967d2e6c75af3245b90d2f1bd99e477d7fb6ee83c181d88bd6609aa77cfbb6073e4ea69a03f49710cd2106d45d790e19b57684384123",
+    "salt": "18087ba03ca1f3b6276873c81c151e59",
+    "createdAt": "2026-09-28T07:14:48.201Z",
+    "updatedAt": "2026-09-28T07:14:48.201Z"
+  }
+}

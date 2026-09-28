@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CampusCare - Smart Grievance Portal</title>
+    <meta name="description" content="Full-stack smart campus grievance management system with AI complaint assistance, problem radar, and student-staff-admin workflows." />
+    <meta property="og:title" content="CampusCare - Smart Grievance Portal" />
+    <meta property="og:description" content="Full-stack smart campus grievance management system with AI complaint assistance, problem radar, and student-staff-admin workflows." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      (function() {
+        try {
+          var saved = localStorage.getItem('campuscare_theme_v2');
+          var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+          if (saved === 'dark' || (!saved && prefersDark)) {
+            document.documentElement.classList.add('dark');
+            document.body && document.body.classList.add('dark');
+          } else {
+            document.documentElement.classList.remove('dark');
+            document.body && document.body.classList.remove('dark');
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
